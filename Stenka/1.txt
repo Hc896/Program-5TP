@@ -1,0 +1,46 @@
+Lekcja 1
+
+-Instalacja vs code jeśli nie ma
+-instalacja node js + npm
+-opisać co to jest i do czego służą: NodeJS, NPM, React, Vite
+
+-napisać komande sprawdzającą czy instalacja Node i npm przebiegła pomyślnie 
+
+-stworzyć w nowym folderze (z sensowną nazwą) projekt startowy z react + vita i nazwać go my-react-app 
+-ustawić execution policy aby npm działał
+
+odpalić gotowy szablon
+
+Porjekt react odpala się na porcie domyślnym 3000 (create react app) (trzeba wiedzieć to na egz pisemny)
+
+react z vita na porcie 5173
+
+angular post 4200
+
+vue port 8080 kiedyś nowe już z vite na 5173
+
+react komponent funkcyjny
+
+pliki projectowe
+
+pliki projektowe gdzie jest plik html gdzie się renderuje komponent app
+
+pliki main jsc co tam jest 
+
+struktura komponentu react "na chłopski rozum"
+komponent wygląda jak funkcja napisana w jeżyku js - funkcja ta zwraca obiekt JSX  czyli strukturę przypominająca HTML obiekt JSX decyduje o tym co widzimy w interfejsu naszej aplikacji webowej
+
+pliki package.json lista zależności tutaj możemy sprawdzić np. czy zaistalowalismy  bootstrapa albo inna biblioteki
+Odp1:
+NodeJS
+Środowisko uruchomieniowe do wykonywania kodu JavaScript po stronie serwera. Służy do budowania aplikacji backendowych, serwerów API i narzędzi CLI.
+NPM
+Node Package Manager – menedżer pakietów dla JavaScript. Służy do instalowania, zarządzania i udostępniania bibliotek oraz zależności w projektach Node.js i frontendowych.
+React
+Biblioteka JavaScript do tworzenia interfejsów użytkownika (UI). Służy głównie do budowania dynamicznych aplikacji webowych, zwłaszcza single-page applications (SPA), z komponentami wielokrotnego użytku.
+Vite
+Narzędzie do budowania i serwera deweloperskiego dla nowoczesnych projektów webowych. Służy do szybkiego developmentu i bundlowania aplikacji (np. z Reactem), oferując szybsze ładowanie niż tradycyjne narzędzia jak Webpack.
+Odp2:
+Node -v
+npm -v
+Odp4:
